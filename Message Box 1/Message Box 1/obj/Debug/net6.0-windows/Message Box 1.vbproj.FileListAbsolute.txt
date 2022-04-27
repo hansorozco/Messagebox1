@@ -1,0 +1,18 @@
+C:\Users\hans\Desktop\Message Box 1\Message Box 1\bin\Debug\net6.0-windows\Message Box 1.exe
+C:\Users\hans\Desktop\Message Box 1\Message Box 1\bin\Debug\net6.0-windows\Message Box 1.deps.json
+C:\Users\hans\Desktop\Message Box 1\Message Box 1\bin\Debug\net6.0-windows\Message Box 1.runtimeconfig.json
+C:\Users\hans\Desktop\Message Box 1\Message Box 1\bin\Debug\net6.0-windows\Message Box 1.dll
+C:\Users\hans\Desktop\Message Box 1\Message Box 1\bin\Debug\net6.0-windows\Message Box 1.pdb
+C:\Users\hans\Desktop\Message Box 1\Message Box 1\obj\Debug\net6.0-windows\Message Box 1.vbproj.AssemblyReference.cache
+C:\Users\hans\Desktop\Message Box 1\Message Box 1\obj\Debug\net6.0-windows\Message_Box_1.Form1.resources
+C:\Users\hans\Desktop\Message Box 1\Message Box 1\obj\Debug\net6.0-windows\Message_Box_1.Resources.resources
+C:\Users\hans\Desktop\Message Box 1\Message Box 1\obj\Debug\net6.0-windows\Message Box 1.vbproj.GenerateResource.cache
+C:\Users\hans\Desktop\Message Box 1\Message Box 1\obj\Debug\net6.0-windows\Message Box 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hans\Desktop\Message Box 1\Message Box 1\obj\Debug\net6.0-windows\Message Box 1.AssemblyInfoInputs.cache
+C:\Users\hans\Desktop\Message Box 1\Message Box 1\obj\Debug\net6.0-windows\Message Box 1.AssemblyInfo.vb
+C:\Users\hans\Desktop\Message Box 1\Message Box 1\obj\Debug\net6.0-windows\Message Box 1.vbproj.CoreCompileInputs.cache
+C:\Users\hans\Desktop\Message Box 1\Message Box 1\obj\Debug\net6.0-windows\Message Box 1.dll
+C:\Users\hans\Desktop\Message Box 1\Message Box 1\obj\Debug\net6.0-windows\refint\Message Box 1.dll
+C:\Users\hans\Desktop\Message Box 1\Message Box 1\obj\Debug\net6.0-windows\Message Box 1.pdb
+C:\Users\hans\Desktop\Message Box 1\Message Box 1\obj\Debug\net6.0-windows\Message Box 1.genruntimeconfig.cache
+C:\Users\hans\Desktop\Message Box 1\Message Box 1\obj\Debug\net6.0-windows\ref\Message Box 1.dll
